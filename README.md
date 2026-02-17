@@ -1,4 +1,4 @@
-\# TBSD Project
+# TBSD Project
 
 
 
@@ -8,9 +8,9 @@ This repository contains modules for Tactical Battlefield Surveillance Drone Sys
 
 Modules:
 
-\- Navigation
+- Navigation
 
-\- Battery
+- Battery
 
 
 
