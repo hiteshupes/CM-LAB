@@ -1,0 +1,7 @@
+Change Request ID: CR-001
+Title: Add auto Return-to-Base when unable to find targert
+Requested By: Command Center Officer
+Priority: High
+Reason: Drone may crash if damaged by enemy attack
+Modules Impacted: navigation_module.txt, battery_module.txt
+Approval Status: Approved
